@@ -1,3 +1,4 @@
+b3log/siyuan
 nyanmisaka/jellyfin
 lovechen/embyserver
 vaultwarden/server
