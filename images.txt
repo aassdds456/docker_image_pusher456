@@ -4,4 +4,4 @@ dzhuang/tinymediamanager
 flaresolverr/flaresolverr
 linuxserver/jackett
 metatube/metatibe-server
-vaultwarden/server
+vaultwarden/server:latest
