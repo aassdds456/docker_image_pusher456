@@ -1,1 +1,1 @@
-tailscale/tailscale
+jeessy/ddns-go
