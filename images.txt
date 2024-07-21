@@ -1,7 +1,1 @@
-haroldli/xiaoya-tvbox
-xiaoyaliu/alist
-dzhuang/tinymediamanager
-flaresolverr/flaresolverr
-linuxserver/jackett
-metatube/metatibe-server
-vaultwarden/server:latest
+vaultwarden/server
