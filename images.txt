@@ -1,2 +1,1 @@
-bytelang/kplayer
-nginx
+tailscale/tailscale
