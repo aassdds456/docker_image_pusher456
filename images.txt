@@ -1,12 +1,2 @@
-b3log/siyuan
-nyanmisaka/jellyfin
-lovechen/embyserver
-vaultwarden/server
-redis:6.2-alpine
-tensorchord/pgvecto-rs:pg14-v0.2.0
-haroldli/xiaoya-tvbox
-xiaoyaliu/alist
-dzhuang/tinymediamanager
-flaresolverr/flaresolverr
-linuxserver/jackett
-metatube/metatibe-server
+bytelang/kplayer
+nginx
