@@ -1,4 +1,4 @@
 xhofe/alist
 xiaoyaliu/alist
 haroldli/xiaoya-tvbox
-auto_symlink
+shenxianmq/auto_symlink:latest
