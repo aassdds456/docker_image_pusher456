@@ -1,3 +1,4 @@
 xhofe/alist
 xiaoyaliu/alist
 haroldli/xiaoya-tvbox
+auto_symlink
