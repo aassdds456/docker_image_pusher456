@@ -1,1 +1,1 @@
-gdy666/lucky
+jc21/nginx-proxy-manager
