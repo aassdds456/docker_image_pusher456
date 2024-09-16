@@ -1,1 +1,1 @@
-jc21/mariadb-aria
+zzsrv/openwrt
